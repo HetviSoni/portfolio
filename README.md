@@ -53,6 +53,7 @@ To get started with BoostFolio, follow these steps:
 
 <img width="410" alt="Screenshot 2023-06-04 173403" src="https://github.com/aviiciii/portfolio/assets/76479104/c234f572-e2c7-4e23-b994-959f63d0eb08">
 <img width="410" alt="Screenshot 2023-06-04 173422" src="https://github.com/aviiciii/portfolio/assets/76479104/e7a0f632-d215-4504-bfc3-5881156c830a">
+<img width="839" alt="image" src="https://github.com/HetviSoni/portfolio/assets/76479104/f2a2ccb1-9d67-4400-ac32-1e207996b7a5">
 
 
 ## Contributors
